@@ -51,7 +51,14 @@ h4 {
   font-weight: 700;
 margin-top: -100px;
 }
+h5 {
+  font-size: 40px;
+  line-height: 40px;
+  etter-spacing: -0.5px;
+  color: #000000;
+  font-weight: 700;
 
+}
 .lead {
   font-size: 17px;
   line-height: 26px;
@@ -552,7 +559,8 @@ footer {
 
 
 #pricing {
-  background: #ededed;
+ /*  background: url(../img/pricing.jpg) #231f20 no-repeat center center;*/
+background: #ededed;
 }
 
 .pricing-container {
