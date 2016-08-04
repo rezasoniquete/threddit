@@ -51,7 +51,14 @@ h4 {
   font-weight: 700;
 margin-top: -100px;
 }
+h5 {
+  font-size: 40px;
+  line-height: 40px;
+  etter-spacing: -0.5px;
+  color: #000000;
+  font-weight: 700;
 
+}
 .lead {
   font-size: 17px;
   line-height: 26px;
@@ -495,9 +502,18 @@ hr.line {
     top: 170px;
     width: 100%;
     max-width: 250px;
+    z-index:0;
+}
+.ipad {
+    margin: -105px auto;
+    position: absolute;
+    left:450px;
+    right: 0px;
+    top: 250px;
+    width: 100%;
+    max-width: 750px;
     z-index: 0;
 }
-
 #invite {
   background: #f2f2f2;
 }
@@ -543,7 +559,8 @@ footer {
 
 
 #pricing {
-  background: #ededed;
+ /*  background: url(../img/pricing.jpg) #231f20 no-repeat center center;*/
+background: #ededed;
 }
 
 .pricing-container {
