@@ -47,7 +47,7 @@ h4 {
   font-size: 40px;
   line-height: 40px;
   etter-spacing: -0.5px;
-  color: #ffffff;
+  color: #272727;
   font-weight: 700;
 margin-top: -100px;
 }
@@ -56,6 +56,13 @@ margin-top: -100px;
   font-size: 17px;
   line-height: 26px;
   color: #ffffff;
+  font-weight: 400;
+}
+
+.lead2 {
+  font-size: 17px;
+  line-height: 26px;
+  color: #929496;
   font-weight: 400;
 }
 
