@@ -495,9 +495,18 @@ hr.line {
     top: 170px;
     width: 100%;
     max-width: 250px;
+    z-index:0;
+}
+.ipad {
+    margin: -105px auto;
+    position: absolute;
+    left:450px;
+    right: 0px;
+    top: 250px;
+    width: 100%;
+    max-width: 750px;
     z-index: 0;
 }
-
 #invite {
   background: #f2f2f2;
 }
